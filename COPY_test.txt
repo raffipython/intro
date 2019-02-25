@@ -1,0 +1,3 @@
+This really works!
+Even on a second line
+New line added to the copy
